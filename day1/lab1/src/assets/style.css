@@ -1,0 +1,107 @@
+#parent{
+
+    background-color: #1d6781;
+    margin-left: 20%;
+    width: 50%;
+    margin-top: 2%;
+    border: 1px solid;
+}
+#main{
+    text-align: center;
+}
+#child{
+    background-color: #1d6781;
+    margin-left: 20%;
+    width: 50%;
+    margin-top: 2%;
+    border: 1px solid;
+}
+
+
+#par{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 27px;
+    color: #ffffff;
+    margin-bottom: 5%;
+}
+
+#sel{
+    color: #ffffff;
+    font-size: 22px;
+    margin-left: 7%;
+}
+#child{
+    background-color: #1d6781;
+    margin-left: 20%;
+    width: 50%;
+    margin-top: 2%;
+    border: 1px solid;
+}
+
+#role{
+    margin-left: 8%;
+    width: 220px;
+    height: 33px;
+    font-size: 17px;
+}
+form{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+#nam{
+    margin-right: 10%;
+    font-size: 22px;
+    color: #ffffff;
+}
+#name{
+    height: 27px;
+    font-size: 17px;
+    margin-right: 10%;
+}
+#btn:hover{
+    background-color: white;
+    color: #da9a29;
+}
+#btn{
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    border: none;
+    /* text-align: center; */
+    padding-top: 8%;
+    padding-left: 0%;
+    height: 40px;
+    width: 30%;
+    background-color: #da9a29;
+    /* margin-bottom: 5%; */
+    margin-right: 18%;
+   margin-left: 12%;
+    margin-top: 7%;
+
+    padding-top: 1%;
+    padding-left: 2%;
+    margin-bottom: 10%;
+
+}
+
+#user{
+    text-align: center;
+    margin-bottom: 2%;
+    color: white;
+}
+#btnn{
+    font-weight: 700;
+    color: white;
+    border: none;
+    background-color: #da9a29;
+    height: 35px;
+    width: 20%;
+    font-size: 15px;
+}
+#data{
+    font-size: 20px;
+}
+#btnn:hover{
+    background-color: white;
+    color:  #da9a29;}
